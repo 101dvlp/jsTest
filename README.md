@@ -1,2 +1,2 @@
 # jsTest
-This is for Javascrip study
+This is for Javascript study
